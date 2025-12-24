@@ -1,0 +1,7 @@
+{
+  "name": "MovieTube AI Video Shopping",
+  "description": "A world-class video streaming platform that allows users to upload videos, pause playback, and use AI Vision to detect any purchasable product for instant shopping redirection.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
